@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-sm-5 copyright">
           <p>
-            Copyright © 2017 YOUR NAME
+            Copyright © 2020 Tushar ghosh Joy
           </p>
         </div>
         <div class="col-sm-2 top">
