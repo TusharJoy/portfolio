@@ -10,22 +10,22 @@
       </div>
       <ul id="menu" class="shadow">
         <li>
-          <a href="#about">About</a>
+          <a v-scroll-to="{ element: '#about', duration: 3000 }">About</a>
         </li>
         <li>
-          <a href="#experience">Experience</a>
+          <a v-scroll-to="{ element: '#experience', duration: 3000 }">Experience</a>
         </li>
         <li>
-          <a href="#education">Education</a>
+          <a v-scroll-to="{ element: '#education', duration: 3000 }">Education</a>
         </li>
         <li>
-          <a href="#projects">Projects</a>
+          <a v-scroll-to="{ element: '#projects', duration: 3000 }">Projects</a>
         </li>
         <li>
-          <a href="#skills">Skills</a>
+          <a v-scroll-to="{ element: '#skills', duration: 3000 }">Skills</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a v-scroll-to="{ element: '#contact', duration: 3000 }">Contact</a>
         </li>
       </ul>
     </header>
