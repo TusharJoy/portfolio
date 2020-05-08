@@ -1,6 +1,6 @@
 export default {
   mode: 'spa',
-  debug: true,
+  debug: false,
   /*
   ** Headers of the page
   */
@@ -57,7 +57,6 @@ export default {
   loading: {
     name: 'circle',
     color: '#3B8070',
-    background: 'black'
   },
 
   /*
